@@ -3,7 +3,7 @@
 Good repositorys to know about my work: 
 - [PhysiLab2d](https://github.com/zBlasius/PhysiLab2d)
 - [cool_things_js](https://github.com/zBlasius/cool_things_js)
-- [videos_upload](https://github.com/zBlasius/videos-upload) - still in progress
+- [subjects_easy](https://github.com/zBlasius/videos-upload) - still in progress
 
 <!--
 **zBlasius/zBlasius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
