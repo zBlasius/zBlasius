@@ -11,9 +11,6 @@ Fullstack developer with 4 years of experience, passionate about technology and 
 - **Backend**: Node.js, PHP
 - **Databases**: MySQL, MongoDB, Firebase
 
-## 🛠️ Good repositories in this profile
-- **PhysicLab2D** [Link](https://www.linkedin.com/in/gustavo-blasius)
-- 
 
 ## 💡 Interests
 I'm constantly seeking to learn new technologies and best practices. Currently, I’m interested in **design patterns**, **microservices architecture**, and improving my **DevOps** skills.
